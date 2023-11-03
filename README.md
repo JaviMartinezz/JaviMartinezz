@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaviMartinezz
 - 👀 I’m interested in Data Science and Machine learning.
 - 🌱 I’m currently learning Neural Networks  
-- 💞️ I’m looking to collaborate on a BigTech
+- 💞️ I’m looking to collaborate with a BigTech company
 - 📫 How to reach me: javimarzsegovia@gmail.com
 
 <!---
